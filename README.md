@@ -1,9 +1,9 @@
-# REPO (with complete Readme)
-link to Lokuri web 
-Readme.md
+Repo (with complete Readme file)
+[link to Lokuri web] (http...)
+[Readme.md] (   )
 
-# lokuri Clone
-# Table of Contents
+Lokuri Clone
+Table of Content
 .  General Info
 .  Screenshoots
 .  Technologies
@@ -39,7 +39,7 @@ Contributing
   PRequests are welcome. In case of big changes, please open an issue first to explain What you would like to change.
   
 License
-  MIT (link)
+  [MIT]  (   )
 
       
    
